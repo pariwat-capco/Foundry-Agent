@@ -1,0 +1,5 @@
+{
+  "maximum_loan_amount": {"th": "วงเงินกู้สูงสุดคือ 1,000,000 บาท", "en": "The maximum loan amount is 1,000,000 THB.", "keywords": ["วงเงินกู้สูงสุด", "กู้ได้สูงสุด", "maximum loan", "maximum amount"]},
+  "interest_rate": {"th": "อัตราดอกเบี้ยคือ 4.5% ต่อปี", "en": "The interest rate is 4.5% per year.", "keywords": ["ดอกเบี้ย", "interest rate", "interest"]},
+  "early_repayment": {"th": "สามารถชำระคืนก่อนกำหนดได้ โดยมีค่าธรรมเนียม 2%", "en": "Early repayment is allowed with a 2% fee.", "keywords": ["ชำระคืนก่อน", "ปิดก่อน", "early repayment", "pay off early"]}
+}
